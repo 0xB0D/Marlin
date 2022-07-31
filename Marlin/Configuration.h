@@ -2462,7 +2462,7 @@
 // A clone of the RepRapDiscount full graphics display but with
 // different pins/wiring (see pins_ANET_10.h). Enable one of these.
 //
-//#define ANET_FULL_GRAPHICS_LCD
+#define ANET_FULL_GRAPHICS_LCD
 //#define ANET_FULL_GRAPHICS_LCD_ALT_WIRING
 
 //
